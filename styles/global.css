@@ -33,6 +33,14 @@ img {
   width: 100%;
 }
 
+button {
+  font-family: inherit;
+}
+
+button:active {
+  opacity: 0.6;
+}
+
 .sr-only {
   position: absolute;
   width: 1px;
