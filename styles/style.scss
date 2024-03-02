@@ -309,8 +309,9 @@
 }
 
 .first-section-right-side {
-  height: 800px;
+  
   .first-section-right-side-img {
+    display: block;
     width: 450px;
     height: 800px;
   }
@@ -378,7 +379,7 @@
   }
 
   .first-section-right-side {
-    height: 700px;
+    
     .first-section-right-side-img {
       width: 340px;
       height: 700px;
@@ -939,6 +940,7 @@
 }
 
 .fourth-section-list-card-img {
+  display: block;
   width: 100%;
   max-height: 370px;
 }
